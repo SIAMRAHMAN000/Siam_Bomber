@@ -1,3 +1,3 @@
 ```
-# pip install siambomber
+pip install siambomber
 ```
