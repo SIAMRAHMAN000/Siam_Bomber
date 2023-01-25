@@ -17,14 +17,11 @@
 <|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|>
 
 ```
-```
 rm -rf Siam_Bomber
-```
 ```
 git clone https://github.com/SIAMRAHMAN000/Siam_Bomber.git
 ```
 cd Siam_Bomber
-```
 ```
 python3 siambomber.py / python siambomber.py
 ```
