@@ -19,7 +19,6 @@
 ```
 pip install siambomber
 ```
-```
 rm -rf Siam_Bomber
 ```
 ```
