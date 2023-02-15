@@ -16,7 +16,20 @@
 <|-------------------------------------------------------------------|>
 <|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|>
 ```
-
+<h1 align="center"> TOOL CMD </h1>
+# STEP 1
+```
+pip uninstall siambomber
+```
+# STEP 2
 ```
 pip install siambomber
 ```
+# STEP 3
+### TYPE :
+```
+siambomber
+```
+<h1 align="center"> TOOL RUN SUCCESS </h1>
+
+
